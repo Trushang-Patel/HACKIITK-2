@@ -41,7 +41,7 @@ This project aims to build an automated bot detection system for social media pl
 ### Setup:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/social-media-bot-detection.git
+   git clone https://github.com/Trushang-Patel/HACKIITK-2.git
    cd social-media-bot-detection
 
 ## Evaluation Metrics
