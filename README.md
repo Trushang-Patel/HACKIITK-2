@@ -55,5 +55,5 @@ This project aims to build an automated bot detection system for social media pl
 
 A demo showcasing the bot detection system and its functionality is available.
 
-Click here to watch the vedio:
+Click here to watch the video:
 https://drive.google.com/file/d/1MJey9QfCXCS06UuNklBpDK5EAHssjcg0/view?usp=sharing
