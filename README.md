@@ -29,10 +29,28 @@ This project aims to build an automated bot detection system for social media pl
 
 ### Prerequisites:
 - Python 3.8 or higher
-- Libraries: `numpy`, `pandas`, `scikit-learn`, `tensorflow`, `transformers`, `spacy`, `nltk`, `dask`, `apache-spark`
 
+1. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Download the required dataset (e.g., Twitter Bot Detection Dataset).  
+   Unzip the dataset and place it in the `data/` directory.
+   
 ### Setup:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/social-media-bot-detection.git
    cd social-media-bot-detection
+
+## Evaluation Metrics
+
+- **Precision:** Proportion of true positives among predicted bot accounts.
+- **Recall:** Proportion of true positives identified among all actual bot accounts.
+- **F1 Score:** Harmonic mean of precision and recall.
+- **AUC-ROC:** Area Under the Curve (AUC) of the Receiver Operating Characteristic (ROC) curve.
+
+## Demo Video
+
+A demo showcasing the bot detection system and its functionality is available.
